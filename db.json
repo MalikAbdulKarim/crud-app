@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Saif",
+      "lastName": "Rehman",
+      "email": "saif.ciit@gmail.com",
+      "dob": "1999-12-31T19:00:00.000Z",
+      "gender": "male",
+      "education": "Masters",
+      "company": "SSDC",
+      "experience": 5,
+      "package": 5,
+      "id": 1
+    },
+    {
+      "firstName": "Saba",
+      "lastName": "Rehman",
+      "email": "saba@gmail.com",
+      "dob": "1999-12-31T19:00:00.000Z",
+      "gender": "female",
+      "education": "Masters",
+      "company": "SSDC",
+      "experience": 2,
+      "package": 2,
+      "id": 2
+    },
+    {
+      "firstName": "Ansar",
+      "lastName": "Ali",
+      "email": "ansar@gmail.com",
+      "dob": "1999-12-31T19:00:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "company": "SSDC",
+      "experience": 2,
+      "package": 2,
+      "id": 3
+    },
+    {
+      "firstName": "Laiba",
+      "lastName": "Khan",
+      "email": "laiba@gmail.com",
+      "dob": "1999-12-31T19:00:00.000Z",
+      "gender": "female",
+      "education": "Graduation",
+      "company": "SSDC",
+      "experience": 2,
+      "package": 2,
+      "id": 4
+    },
+    {
+      "firstName": "Abdul",
+      "lastName": "Karim",
+      "email": "abdul@gmail.com",
+      "dob": "1999-12-31T19:00:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "company": "SSDC",
+      "experience": 2,
+      "package": 2,
+      "id": 5
+    },
+    {
+      "firstName": "Ali",
+      "lastName": "Khan",
+      "email": "ali@gmail.com",
+      "dob": "1999-12-31T19:00:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "company": "SSDC",
+      "experience": 2,
+      "package": 2,
+      "id": 6
+    }
+  ]
+}
